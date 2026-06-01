@@ -23,9 +23,9 @@ function Footer() {
           <div className="footer-col">
             <h4>Contact</h4>
             <ul>
-              <li><a href="mailto:hello@electrohub.io">hello@electrohub.io</a></li>
-              <li><a href="tel:+11234567890">+1 (123) 456-7890</a></li>
-              <li><a href="#">San Francisco, CA</a></li>
+              <li><a href="mailto:72030757@students.liu.edu.lb">72030757@students.liu.edu.lb</a></li>
+              <li><a href="tel:+96171813693">+961 71 81 36 93</a></li>
+              <li><a href="#">Tyre. Lebanon</a></li>
               <li><a href="#">Mon–Fri, 9am–6pm</a></li>
             </ul>
           </div>

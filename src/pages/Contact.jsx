@@ -54,17 +54,17 @@ const infoCards = [
   {
     icon: '📧',
     title: 'Email Us',
-    desc: 'hello@electrohub.io\nWe reply within 24 hours',
+    desc: '72030757@students.liu.edu.lb\nWe reply within 24 hours',
   },
   {
     icon: '📞',
     title: 'Call Us',
-    desc: '+1 (123) 456-7890\nMon–Fri, 9am–6pm PST',
+    desc: '71 81 36 93\nMon–Fri, 9am–6pm ',
   },
   {
     icon: '📍',
     title: 'Our Office',
-    desc: '123 Maker Lane\nSan Francisco, CA 94105',
+    desc: 'Tyre. Lebanon\n',
   },
 ]
 
